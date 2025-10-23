@@ -1,49 +1,52 @@
-<img width="115" height="287" alt="01" src="https://github.com/user-attachments/assets/718990ba-621c-4a4b-aaf2-30bc9300dd8c" />
-
 ## Puertos USB y PS
 
 * Los dos puertos rectangulares son USB 2.0, usado para conectar dispositivos como teclado, ratón, memorias USB, etc. El conector redondo es PS/2, usado para teclados o ratones antiguos
 
-img
+<img width="115" height="287" alt="01" src="https://github.com/user-attachments/assets/718990ba-621c-4a4b-aaf2-30bc9300dd8c" />
 
 ## S/PDIF (óptico)
 * Conector óptico digital de audio (S/PDIF). Transmite audio digital de alta calidad a equipos de sonido o sistemas de cine en casa.
+
+<img width="38" height="77" alt="02" src="https://github.com/user-attachments/assets/5102e91b-7277-4c7b-8ac6-583e62469d98" />
 
 ## DisplayPort
 
 * Puerto de DisplayPort, usado para conectar monitores modernos con gran resolución y tasa de refresco.
 
-img
+<img width="71" height="84" alt="Screenshot_20251023_134608" src="https://github.com/user-attachments/assets/5abca213-f271-489e-a9d3-5c17c4fe7344" />
 
 ## HDMI
 
 * Puerto HDMI, transmite video y audio digital a monitores, televisores o proyectores.
 
-img
+<img width="70" height="84" alt="Screenshot_20251023_134618" src="https://github.com/user-attachments/assets/6002cbf4-8bd4-4fe6-86c9-ac5a1f2f2e7a" />
 
 ## VGA (D-Sub)
 
 * Conector VGA, usado para monitores más antiguos. Transmite solo señal de video analógica.
 
-img
+<img width="117" height="82" alt="Screenshot_20251023_134628" src="https://github.com/user-attachments/assets/c6f7ebab-6d10-4b3b-8bb7-b76df2ac569a" />
 
 ## DVI
 
 * Puerto DVI, transmite video digital (y a veces analógico). Usado para conectar monitores de computadora.
 
-img
+img<img width="120" height="73" alt="Screenshot_20251023_134641" src="https://github.com/user-attachments/assets/7b07c148-b798-425c-8a0a-d5109cb1270a" />
+
 
 ## Puerto Serie (COM)
 
 * Conector RS-232 (puerto COM), usado para dispositivos antiguos o industriales, como routers, PLCs o equipos de diagnóstico.
 
-img
+img<img width="121" height="193" alt="Screenshot_20251023_134650" src="https://github.com/user-attachments/assets/eb3b08c6-1878-4c6b-a782-f551d7d4173d" />
+
 
 ## Puerto eSATA
 
 * Puerto eSATA, utilizado para conectar discos duros externos con velocidad similar a SATA interna.
 
-img
+img<img width="54" height="126" alt="Screenshot_20251023_134713" src="https://github.com/user-attachments/assets/ba331501-012e-46cf-b153-a679f4b0634e" />
+
 
 ## Puertos USB 3.0 / 3.1
 
