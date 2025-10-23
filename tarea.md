@@ -63,5 +63,5 @@ img<img width="54" height="126" alt="Screenshot_20251023_134713" src="https://gi
 ## Conectores de audio analógico y digital
 
 * Entradas y salidas de audio analógico: micrófono, altavoces, línea de entrada, etc. También incluye un puerto óptico (TOSLINK) para salida de audio digital S/PDIF.
-* 
+  
 <img width="115" height="179" alt="Screenshot_20251023_134746" src="https://github.com/user-attachments/assets/8f1d940e-077b-4ecd-87d9-dcbfa93f6d8f" />
