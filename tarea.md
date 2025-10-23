@@ -52,14 +52,16 @@ img<img width="54" height="126" alt="Screenshot_20251023_134713" src="https://gi
 
 * Los puertos rojos y azules son versiones más rápidas del USB: los azules son USB 3.0 (5 Gbps) y los rojos son USB 3.1 o 3.2 (hasta 10 Gbps o más).
 
-img
+<img width="54" height="153" alt="Screenshot_20251023_134723" src="https://github.com/user-attachments/assets/92611c5a-c296-453e-8cb2-0cb94623de5f" />
 
 ## Puerto Ethernet (RJ-45)
 
 * Conector RJ-45, usado para conectar la computadora a redes cableadas (LAN, Internet).
 
-img
+<img width="76" height="169" alt="Screenshot_20251023_134735" src="https://github.com/user-attachments/assets/0f2b9618-e320-4084-af77-26343607721d" />
 
 ## Conectores de audio analógico y digital
 
 * Entradas y salidas de audio analógico: micrófono, altavoces, línea de entrada, etc. También incluye un puerto óptico (TOSLINK) para salida de audio digital S/PDIF.
+* 
+<img width="115" height="179" alt="Screenshot_20251023_134746" src="https://github.com/user-attachments/assets/8f1d940e-077b-4ecd-87d9-dcbfa93f6d8f" />
