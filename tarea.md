@@ -1,13 +1,13 @@
 ## Puertos USB y PS
 
+<img width="115" height="287" alt="01" src="https://github.com/user-attachments/assets/718990ba-621c-4a4b-aaf2-30bc9300dd8c" />
+
 * Los dos puertos rectangulares son USB 2.0, usado para conectar dispositivos como teclado, ratón, memorias USB, etc. El conector redondo es PS/2, usado para teclados o ratones antiguos
 
-<img width="115" height="287" alt="01" src="https://github.com/user-attachments/assets/718990ba-621c-4a4b-aaf2-30bc9300dd8c" />
+<img width="38" height="77" alt="02" src="https://github.com/user-attachments/assets/5102e91b-7277-4c7b-8ac6-583e62469d98" />
 
 ## S/PDIF (óptico)
 * Conector óptico digital de audio (S/PDIF). Transmite audio digital de alta calidad a equipos de sonido o sistemas de cine en casa.
-
-<img width="38" height="77" alt="02" src="https://github.com/user-attachments/assets/5102e91b-7277-4c7b-8ac6-583e62469d98" />
 
 ## DisplayPort
 
